@@ -1,5 +1,4 @@
 
-import React, { useEffect, useState } from "react";
 const Temp = () => {
   const [weatherdata, setWeatherData] = useState(null);
   const [search, setSearch] = useState("Delhi");
